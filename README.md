@@ -36,15 +36,15 @@ DAOs need to vet multisig signers. DeFi protocols want to screen high-value user
 
 - Live API: [solenceai.com](https://solenceai.com)
 - Playground: [solenceai.com/playground](https://solenceai.com/playground)
-- Docs: [solenceai.com/docs](https://docs.solenceai.com/docs)
-- Twitter: [@SolenceAi]([https://twitter.com/SolenceAi](https://twitter.com/SolenceAi))
+- Docs: [docs.solenceai.com](https://docs.solenceai.com)
+- Twitter: [@SolenceAi](https://twitter.com/SolenceAi)
 
 ## Get in touch
 
 Building something that needs wallet security checks? Have ideas for what we should build next?
 
-- **Email:** support@solenceai.com
-- **Twitter:** [Join community]([https://twitter.com/SolenceAi](https://twitter.com/SolenceAi))
+- **Email:** [support@solenceai.com](mailto:support@solenceai.com)
+- **Twitter:** [@SolenceAi](https://twitter.com/SolenceAi)
 - **Issues:** Open them in [solenceai-api](https://github.com/solenceai/solenceai-api/issues)
 
 ---
