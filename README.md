@@ -1,4 +1,4 @@
-# Solence AI
+# SolenceAI
 
 **AI-powered security infrastructure for Solana**
 
