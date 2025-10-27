@@ -36,7 +36,7 @@ DAOs need to vet multisig signers. DeFi protocols want to screen high-value user
 
 - Live API: [solenceai.com](https://solenceai.com)
 - Playground: [solenceai.com/playground](https://solenceai.com/playground)
-- Docs: [docs.solenceai.com](https://docs.solenceai.com)
+- Docs: [solenceai.com/docs](https://solenceai.com/docs)
 - Twitter: [@SolenceAi](https://twitter.com/SolenceAi)
 
 ## Get in touch
